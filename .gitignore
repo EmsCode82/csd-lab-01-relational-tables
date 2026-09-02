@@ -1,0 +1,15 @@
+# SSMS / Visual Studio
+.vs/
+*.suo
+*.user
+*.rsuser
+*.sqlproj.user
+
+# SQL Server local files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.dbmdl
+*.jfm
